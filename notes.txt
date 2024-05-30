@@ -1,0 +1,24 @@
+list controls
+    (ul-unordered list,ol-ordered list)
+    (li - list item)
+    <ul type="circle/square/etc">
+    <li>mk</li>
+    <li>smk></li>
+    </ul>
+    <ol type="A/I/1">
+    <li>mk</li>
+    <li>smk></li>
+    </ol>
+
+    <table>
+        <th>
+        <td>name</td>
+        <td>type</td>
+        </th>
+        <tr>
+        <td>mk</td>
+        <td>WEB developer</td>
+        </tr>
+    </table>
+
+    royalblue(#091235),navy blue(#14202E),Midnight blue(#2B4257),Blue GRay(#88A9C3)

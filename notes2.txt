@@ -1,0 +1,17 @@
+css - cascading style sheet
+
+Internal Style Sheet
+Inline Style Sheet
+External Style Sheet
+
+<style>
+
+</style>
+
+<link rel="stylesheet" type="text/css" href="name.css">
+
+css by id #
+css by class .
+tag name
+attribute
+
